@@ -122,6 +122,10 @@ body {
     margin: 20px;
   }
 
+a:link {
+  color: red;
+}
+
 a:visited {
   color: red;
 }
@@ -133,3 +137,4 @@ a:hover {
 a:active {
   color: blue;
 }
+
