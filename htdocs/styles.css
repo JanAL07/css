@@ -115,6 +115,11 @@ body {
     font-weight: bold;
     /* used to give 20px margin */
     margin: 20px;
+    border: 2px solid rgb(39, 29, 189);
+    /* used to make top of border style double */
+    border-top-style: double;
+    /* used to make border-radius 5px */
+    border-radius: 5px;
   }
 
 a:link {
@@ -132,5 +137,6 @@ a:hover {
 a:active {
   color: blue;
 }
+
 
 
