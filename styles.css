@@ -8,7 +8,7 @@ body {
     /* used to give background color of light purple */
     background-color: rgb(250, 246, 253);
     /* used to make text dark pink (if you squint enough it can be purple) */
-    
+    color:rgb(83, 16, 80);
   }
   header {
     /* used to arrange space in the stuff in container */
@@ -122,6 +122,7 @@ body {
     /* used to make border-radius 5px */
     border-radius: 5px;
   }
+
 
 
 
