@@ -71,21 +71,13 @@ body {
     /* used to make font-size larger and more readable */
     font-size: larger;
   }
-  table {
-    /* used to give 5px blue border */
-    border: 5px solid rgb(21, 50, 129);
-    /* used to make border-radius 5px */
-    border-radius: 12px;
-    /* used to give auto margin */
-    margin: auto;
-    /* used to give 5px padding */
-    padding: 5px;
-    /* used to align text to center */
-    text-align: center;
-    /* used to collapse border */
-    border-collapse: collapse;
-  }
   
+  table th, table td {
+    /* used to give 1px black solid border */
+    border: 1px solid black;
+    /* used to give 8px and 12 px padding */
+    padding: 8px 12px;
+  }
   .sdg-images {
     /* used to align text to center */
     text-align: center;
@@ -117,6 +109,7 @@ body {
     /* used to make border-radius 5px */
     border-radius: 5px;
   }
+
 
 
 
