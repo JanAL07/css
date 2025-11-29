@@ -20,7 +20,7 @@ body {
     /* used to defign space between rows and columns */
     gap: 10px;
     /* used to give padding of 10px */
-    padding: 10px;
+    padding: 300px;
   }
   header img {
     /* used to give width of 128 px */
@@ -122,5 +122,6 @@ body {
     /* used to make border-radius 5px */
     border-radius: 5px;
   }
+
 
 
