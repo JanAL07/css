@@ -95,10 +95,6 @@ footer {
     /* used to give 20px margin */
     margin: 20px;
   }
-/* basically normal link */
-a:link {
-  color: hot pink;
-}
 
 /* visited link */
 a:visited {
