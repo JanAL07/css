@@ -95,7 +95,26 @@ footer {
     /* used to give 20px margin */
     margin: 20px;
   }
+/* basically normal link */
+a:link {
+  color: rgb(3, 35, 177);
+}
 
+/* visited link */
+a:visited {
+  color: rgb(204, 0, 255)
+}
+
+/* when you hover mouse over link */
+a:hover {
+    color: #660000;
+    background-color: #e6eeff;
+}
+
+/* selected link yeah */
+a:active {
+  color: #000080;
+}
 /* visited link */
 a:visited {
   color: rgb(204, 0, 255)
