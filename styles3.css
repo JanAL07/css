@@ -61,13 +61,6 @@ body {
     font-weight: bold;
   }
   p {
-    /* used to give 2px blue border */
-    border: 2px solid rgb(39, 29, 189);
-    /* used to make top of border style double */
-    border-top-style: double;
-    /* used to make border-radius 5px */
-    border-radius: 5px;
-    /* used to give 10px padding */
     padding: 10px;
     /* used to give 20px margin */
     margin: 20px;
