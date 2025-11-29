@@ -122,10 +122,6 @@ footer {
     /* used to make border-radius 5px */
     border-radius: 5px;
   }
-/* basically normal link */
-a:link {
-  color: hot pink;
-}
 
 /* visited link */
 a:visited {
