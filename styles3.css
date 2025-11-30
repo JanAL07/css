@@ -119,14 +119,13 @@ a:active {
   color: #000080;
 }
 /*just adjust image size*/
-img {
-  width: 300px;      
+.content-img {
+  width: 300px;
   margin: 15px;
-  float: left;        
+  float: left;
 }
 
 /* every 2nd image floats right */
-img:nth-of-type(even) {
-  float: right;       
+.content-img:nth-of-type(even) {
+  float: right;
 }
-
