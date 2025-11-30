@@ -103,7 +103,7 @@ a:link {
 
 /* visited link */
 a:visited {
-  color: rgb(204, 0, 255)
+  color: rgb(204, 0, 255);
 }
 
 /* when you hover mouse over link */
