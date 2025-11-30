@@ -123,6 +123,11 @@ footer {
     border-radius: 5px;
   }
 
+/* basically normal link */
+a:link {
+  color: rgb(3, 35, 177);
+}
+
 /* visited link */
 a:visited {
   color: rgb(204, 0, 255)
