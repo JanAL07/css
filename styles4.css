@@ -69,7 +69,6 @@ body {
     text-align: center;
     /* used to make font-size larger and more readable */
     font-size: larger;
-    transform: skewY(2deg);
   }
  
   .sdg-images {
@@ -96,7 +95,6 @@ body {
     font-weight: bold;
     /* used to give 20px margin */
     margin: 20px;
-    transform: rotate(2deg);
   }
 /* basically normal link */
 a:link {
