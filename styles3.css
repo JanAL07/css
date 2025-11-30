@@ -94,6 +94,9 @@ footer {
     font-weight: bold;
     /* used to give 20px margin */
     margin: 20px;
+    /* so this thing doesn't get stuck beside a floating image */
+    clear: both;
+
   }
 /* basically normal link */
 a:link {
@@ -115,3 +118,15 @@ a:hover {
 a:active {
   color: #000080;
 }
+/*just adjust image size*/
+img {
+  width: 300px;      
+  margin: 15px;
+  float: left;        
+}
+
+/* every 2nd image floats right */
+img:nth-of-type(even) {
+  float: right;       
+}
+
