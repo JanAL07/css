@@ -68,7 +68,13 @@ body {
     text-align: center;
     /* used to make font-size larger and more readable */
     font-size: larger;
-  }
+    transform: scaleX(1);         
+    transition: transform 2s; 
+}
+
+p:hover {
+    transform: scaleX(1.2);        
+}
 
   .sdg-images {
     /* used to align text to center */
