@@ -106,10 +106,13 @@ footer {
     transform: scaleY(1.2);
     transition-property: width;
     transition-duration: 5s;
+     width: 89%;
+      margin: 20px auto;    
+      text-align: center;
   }
 
 footer:hover {
-     width: 89%;
+     width: 70%;
 }
 
 /* basically normal link */
