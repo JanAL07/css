@@ -174,8 +174,8 @@ a:active {
 }
 
 .sprite {
-    width: 43px;
-  height: 44px;
-  background-image: url('img_navsprites.gif');
-  background-position: -91px 0;
+    width: 100px;
+  height: 100px;
+  
 }
+
