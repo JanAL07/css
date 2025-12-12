@@ -121,6 +121,7 @@ footer {
     border-top-style: double;
     /* used to make border-radius 5px */
     border-radius: 5px;
+    transform: scaleY(1.2);
   }
 
 /* basically normal link */
