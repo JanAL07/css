@@ -61,7 +61,6 @@ body {
     font-weight: bold;
   }
   p {
-    
     /* used to give 10px padding */
     padding: 10px;
     /* used to give 20px margin */
@@ -70,7 +69,14 @@ body {
     text-align: center;
     /* used to make font-size larger and more readable */
     font-size: larger;
-  }
+    transform: scaleX(1);         
+    transition: transform 2s; 
+}
+
+p:hover {
+    transform: scaleX(1.1);        
+}
+  
   table {
     /* used to give 5px blue border */
     border: 5px solid rgb(21, 50, 129);
