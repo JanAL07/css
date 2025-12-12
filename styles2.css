@@ -174,8 +174,9 @@ a:active {
 }
 
 .sprite {
-    width: 100px;
-  height: 100px;
-  
+   background: url('imgs/meta-social-media-logos-icons-for-facebook-instagram-messenger-and-more-free-vector.jpg') no-repeat -63px -79px;
+	width: 402px;
+	height: 402px;
 }
+
 
