@@ -73,7 +73,7 @@ body {
     transition: transform 2s; 
 }
 
-footer:hover {
+p:hover {
     transform: scaleX(1.2);        
 }
  
