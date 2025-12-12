@@ -116,4 +116,16 @@ a:hover {
 a:active {
   color: #000080;
 }
+footer {
+    /* used to make color purple or pink*/
+    color: rgb(125, 55, 172);
+    /* used to align text to center */
+    text-align: center;
+    /* used to make text bold */
+    font-weight: bold;
+    /* used to give 20px margin */
+    margin: 20px;
+    /* so this thing doesn't get stuck beside a floating image */
+    clear: both;
+  }
 
