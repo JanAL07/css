@@ -78,10 +78,10 @@ body {
   }
   
   .sdg-images img {
-    /* used to make width 300px */
-    width: 200px;
-    /* used to make height 300px */
-    height: 200px;
+    /* used to make width 100px */
+    width: 100px;
+    /* used to make height 100px */
+    height: 100px;
     /* used to give 5px margin */
     margin: 5px;
   }
