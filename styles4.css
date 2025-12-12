@@ -33,7 +33,7 @@ body {
     color: rgb(167, 36, 134);
     /* used to give 0px margin */
     margin: 0;
-    transform: skewY(2deg);
+    transform: skewY(7deg);
   }
   nav ul {
     /* used to set all list properties to none */
