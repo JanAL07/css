@@ -69,7 +69,7 @@ body {
     /* used to make font-size larger and more readable */
     font-size: larger;
   }
- 
+
   .sdg-images {
     /* used to align text to center */
     text-align: center;
@@ -112,7 +112,14 @@ footer {
     border-radius: 5px;
     /* scales/transforms footer 1.5 */
     transform: scaleY(1.2);
+    transition-property: width;
+    transition-duration: 5s;
   }
+
+footer:hover {
+     width: 89%;
+}
+
 /* basically normal link */
 a:link {
   color: rgb(3, 35, 177);
