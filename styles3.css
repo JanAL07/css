@@ -111,7 +111,7 @@ footer {
     /* used to make border-radius 5px */
     border-radius: 5px;
     /* scales/transforms footer 1.5 */
-    transform: scaleY(1.5);
+    transform: scaleY(1.2);
   }
 /* basically normal link */
 a:link {
