@@ -173,3 +173,9 @@ a:active {
   color: #000080;
 }
 
+.sprite {
+    width: 43px;
+  height: 44px;
+  background-image: url('img_navsprites.gif');
+  background-position: -91px 0;
+}
