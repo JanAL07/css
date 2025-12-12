@@ -92,10 +92,10 @@ footer {
     text-align: center;
     /* used to make text bold */
     font-weight: bold;
-    /* used to give 20px margin */
-    margin: 20px;
     /* so this thing doesn't get stuck beside a floating image */
     clear: both;
+    width: 89%;
+    margin: 20px auto;
     /* used to give 2px blue border */
     border: 2px solid rgb(39, 29, 189);
     /* used to make top of border style double */
@@ -104,10 +104,7 @@ footer {
     border-radius: 5px;
     /* scales/transforms footer 1.5 */
     transform: scaleY(1.2);
-    transition-property: width;
-    transition-duration: 5s;
-     width: 89%;
-      margin: 20px auto;
+    transition: width 5s;
   }
 
 footer:hover {
